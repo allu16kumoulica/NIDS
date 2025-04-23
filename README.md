@@ -9,8 +9,8 @@ This project is a Real-Time Network Intrusion Detection System (NIDS) that uses 
 3. Npcap:
 
 ## Project Setup:
-<code>➢ python -m venv venv</code><br>
-<code>➢ venv\Scripts\activate.bat</code><br>
-<code>➢ pip install -r requirements.txt</code><br>
-<code>➢ python application.py</code><br>
-<code>➢ Now open web address http://localhost:5000</code>
+<code> python -m venv venv</code><br>
+<code> venv\Scripts\activate.bat</code><br>
+<code> pip install -r requirements.txt</code><br>
+<code> python application.py</code><br>
+<code> Now open web address http://localhost:5000</code>
