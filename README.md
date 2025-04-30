@@ -8,6 +8,9 @@ This project is a Real-Time Network Intrusion Detection System (NIDS) that uses 
 2. Python 3.9
 3. Npcap:
 
+## Google Drive link 
+https://drive.google.com/drive/folders/1CpmK33Fwg6UmUUvkIrvyu5bW9siU1O9P?usp=sharing
+
 ## Project Setup:
 <code> python -m venv venv</code><br>
 <code> venv\Scripts\activate.bat</code><br>
